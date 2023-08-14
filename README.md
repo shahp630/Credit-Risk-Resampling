@@ -30,5 +30,4 @@ This challenge consists of the following subsections:
 
 ## 4) Results
 
-Our data shows 
-
+The logistic regression model predicts healthy loans at 100% and high-risk loans at 84%. The model can definitely be used to predict healthy loans, but is a bit risky for high-risk loans.

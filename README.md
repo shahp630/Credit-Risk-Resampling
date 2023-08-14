@@ -7,7 +7,7 @@ Credit risk poses a classification problem that’s inherently imbalanced. This 
 
 ## Instructions:
 
-This challenge consists of the following subsections:
+This challenge consists of the following subsections: 
 
 
 ## 1) Split the Data into Training and Testing Sets

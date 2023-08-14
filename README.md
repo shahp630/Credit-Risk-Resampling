@@ -8,7 +8,7 @@ Credit risk poses a classification problem that’s inherently imbalanced. This 
 ## Instructions:
 This challenge consists of the following subsections:
 
-1) Split the Data into Training and Testing Sets
+## 1) Split the Data into Training and Testing Sets
 
 ![Screenshot (22)](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/d95c7e25-0e8b-4548-8204-8d6cf9af2a4f)
 
@@ -16,7 +16,8 @@ This challenge consists of the following subsections:
 
 ![Screenshot (24)](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/ff8277f2-550a-4442-9e7f-61e2477611d5)
 
+## 2) Create a Logistic Regression Model with the Original Data
 
-3) Create a Logistic Regression Model with the Original Data
+![Screenshot (25)](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/6260e95c-cdc3-4909-9e61-87f7231f21ba)
 
-4) Predict a Logistic Regression Model with Resampled Training Data
+## 3) Predict a Logistic Regression Model with Resampled Training Data

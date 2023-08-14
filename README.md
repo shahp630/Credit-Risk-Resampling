@@ -33,3 +33,7 @@ This challenge consists of the following subsections:
 The logistic regression model predicts healthy loans at 100% and high-risk loans at 84%. The model can definitely be used to predict healthy loans, but is a bit risky for high-risk loans.
 
 ![images](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/c51dccb4-7bc1-4059-a40e-1ea272057317)
+
+![Illustration-BAF-Blog-Illustration-1-1000x700-1](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/7a3d7868-083c-4f02-99be-6e442f296908)
+
+![fx1_lrg](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/5552c641-29dd-4bcc-95bb-25ca75412bc5)

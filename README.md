@@ -10,6 +10,13 @@ This challenge consists of the following subsections:
 
 1) Split the Data into Training and Testing Sets
 
-2) Create a Logistic Regression Model with the Original Data
+![Screenshot (22)](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/d95c7e25-0e8b-4548-8204-8d6cf9af2a4f)
 
-3) Predict a Logistic Regression Model with Resampled Training Data
+![Screenshot (23)](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/6f192f96-9384-4288-9bb9-35e394abee21)
+
+![Screenshot (24)](https://github.com/shahp630/Credit-Risk-Resampling/assets/133065460/ff8277f2-550a-4442-9e7f-61e2477611d5)
+
+
+3) Create a Logistic Regression Model with the Original Data
+
+4) Predict a Logistic Regression Model with Resampled Training Data
